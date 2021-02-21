@@ -1,5 +1,5 @@
 {
-  "name": "Getting Started Example",
+  "name": "Readium",
   "version": "1.0",
   "description": "Build an Extension!",
   "manifest_version": 2,
@@ -8,5 +8,11 @@
       "matches": ["<all_urls>"],
       "js": ["background.js"]
     }
-  ]
+  ],
+  "icons": {
+    "16": "read.png",
+    "48": "read.png",
+    "32": "read.png",
+    "128": "read.png"
+  }
 }
