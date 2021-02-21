@@ -1,6 +1,6 @@
 # Readium
 
-The word **Readium** is equal to Read + Medium
+**Readium** is a Portmanteau for **Read + Medium**
 
 **Readium** is a chrome extension that allows you to access Medium's premium content.
 
